@@ -1,0 +1,31 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Práctica 3 — Modelado y control del sistema
+  musculoesquelético
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Martin Alonso
+    family-names: Gonzalez Holguin
+    email: l23212198@tectijuana.edu.mx
+    affiliation: TecNM/ IT Tijuana
+repository-code: 'https://github.com/l23212198-beep/MSFP3'
+keywords:
+  - sistema musculoesquelético
+  - atrofia muscular simulada
+  - viscoelasticidad
+  - analogía fuerza–voltaje
+  - compliancia mecánica
+  - amortiguamiento viscoso
+  - desplazamiento muscular
+  - respuesta al impulso
+  - control de seguimiento
+  - verificación computacional
+license: BSD-2-Clause
+version: '1.0'
+date-released: '2026-11-03'
